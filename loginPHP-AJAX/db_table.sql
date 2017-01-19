@@ -1,6 +1,6 @@
 CREATE DATABASE IF NOT EXISTS project_loginPHPAJAX;
 
-USE usersForLogin;
+USE project_loginPHPAJAX;
 
 CREATE TABLE login_Users (
 	id		INT AUTO_INCREMENT PRIMARY KEY,
